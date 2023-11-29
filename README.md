@@ -2,4 +2,4 @@
 Class with Stone based on python
 
 ## Hello world
-My name is Alvin and I am 15 year old.
+My dog is cute.
